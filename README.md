@@ -32,4 +32,8 @@ The pricing cards automatically adapt to different screen sizes, ensuring a seam
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/soumyadeepmukherji/Responsive-Pricing-Cards.git)
+   git clone https://github.com/soumyadeepmukherji/Responsive-Pricing-Cards.git
+
+2. Live Link:
+   ```bash
+   https://soumyadeepmukherji.github.io/Responsive-Pricing-Cards/
